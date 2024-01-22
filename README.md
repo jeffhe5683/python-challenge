@@ -2,18 +2,6 @@
 
 The task is to complete two Python challenges, PyBank and PyPoll.
 
-I created a new repository for this project called python-challenge and cloned the new repository to my computer.
-
-Inside my local Git repository I created a folder for each Python assignment and named them PyBank and PyPoll.
-
-In each folder I then added the following content:
-
-A new file called main.py. This is the main script to run for each analysis.
-
-A Resources folder that contains the CSV files.
-
-An analysis folder that contains my text file that has the results from the analysis.
-
 PYBANK CHALLENGE: I was to utilise a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
 I created a Python script to analyse the records to calculate each of the following values:
@@ -30,7 +18,7 @@ The greatest decrease in profits (date and amount) over the entire period
 
 My analysis should show the following results:
 
-Financial Analysis
+# **Financial Analysis**
 Total Months: 86 Total: 
 -8311.11 Greatest Increase in Profits: Aug-16 (
 -1825558) In addition, your final script should both print the analysis to the terminal and export a text file with the results.
@@ -51,7 +39,7 @@ The winner of the election based on popular vote
 
 My analysis should show the following results:
 
-Election Results
+# **Election Results**
 Total Votes: 369711
 Charles Casper Stockham: 23.049% (85213) Diana DeGette: 73.812% (272892) Raymon Anthony Doane: 3.139% (11606)
 Winner: Diana DeGette
